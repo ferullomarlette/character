@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Character glass side security.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
